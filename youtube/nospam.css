@@ -1,0 +1,16 @@
+#player-full-bleed-container.ytd-watch-flexy {
+    position: relative;
+    flex: 1;
+}
+
+#related{
+    display: none;
+}
+
+.ytp-endscreen-content{
+    display:none;
+}
+
+.ytp-videowall-still-info{
+    display:none;
+}
